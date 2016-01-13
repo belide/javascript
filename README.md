@@ -1,9 +1,5 @@
-<<<<<<< HEAD
-
 # Globant JavaScript Style Guide() {
 =======
-# Airbnb JavaScript Style Guide() {
->>>>>>> 8e47e39fc5a693f1bf171ff0ac5a8d992edbd955
 
 *A mostly reasonable approach to JavaScript*
 *derived from the excellent work done by airbnb [here](https://github.com/airbnb/javascript)*
